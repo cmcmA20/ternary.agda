@@ -1,5 +1,0 @@
-name: ternary-relations
-include:
-  - .
-  - src
-  - lib/stdlib.agda/src/

@@ -16,7 +16,7 @@ open import Relation.Binary.Structures
 open import Relation.Ternary.Core
 open import Relation.Ternary.Structures.Syntax
 open import Relation.Ternary.Functor public
-open import Category.Monad.Predicate
+open import Effect.Monad.Predicate
 
 {- strong indexed monads on predicates over PRSAs -}
 RawMonad : ∀ {i} (I : Set i) → (ℓ₁ ℓ₂ : Level) → Set _
